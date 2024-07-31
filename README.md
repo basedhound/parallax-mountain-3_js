@@ -14,17 +14,15 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Landing page design for a sushi restaurant featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
+**[EN]** Parallax landing page design featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. This project is a test to build a parallax effect while scrolling the page.
 
-**[FR]** Page d'accueil pour un restaurant de sushi, mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
+**[FR]** Conception de page d'accueil Parallax avec un design moderne et minimaliste, réalisée en HTML, CSS et JavaScript. Ce projet est un test pour créer un effet de parallaxe lors du défilement de la page.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
 - HTML
 - CSS
 - JavaScript
-- Sass
-- ScrollReveal.js
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
